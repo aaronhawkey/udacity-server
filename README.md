@@ -1,6 +1,6 @@
-#Udacity Linux Project
+# Udacity Linux Project
 
-##Introduction
+## Introduction
 In this project, I configured a Linux server to host an application written in
 a pevious section. I had to configure the server's firewall, configure PSQL, and
 Apache 2 to cooperate with Python 3. 
